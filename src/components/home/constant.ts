@@ -11,4 +11,9 @@ export const HOME_ITEMS: HomeItem[] = [
     title: "Config Driven UI",
     path: "/config-driven",
   },
+  {
+    id: 2,
+    title: "Shimmer",
+    path: "/shimmer",
+  },
 ];
