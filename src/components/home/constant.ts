@@ -16,4 +16,14 @@ export const HOME_ITEMS: HomeItem[] = [
     title: "Shimmer",
     path: "/shimmer",
   },
+  {
+    id: 3,
+    title: "Tic Tac Toe",
+    path: "/tic-tac-toe",
+  },
+  {
+    id: 4,
+    title: "Accordian",
+    path: "/accordian",
+  },
 ];
