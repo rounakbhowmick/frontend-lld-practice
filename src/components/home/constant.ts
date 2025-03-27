@@ -26,4 +26,9 @@ export const HOME_ITEMS: HomeItem[] = [
     title: "Accordian",
     path: "/accordian",
   },
+  {
+    id: 5,
+    title: "Tabs Form",
+    path: "/tabs-form",
+  },
 ];
