@@ -1,5 +1,6 @@
 import Accordian from "../components/accordian/Accordian";
 import MultiLang from "../components/multi-lang/MultiLang";
+import Otp from "../components/otp/Otp";
 import Shimmer from "../components/shimmer/Shimmer";
 import TabForm from "../components/tabs-form/TabForm";
 import TicTacToe from "../components/tic-tac-toe/TicTacToe";
@@ -12,4 +13,5 @@ export const ROUTE_COMPONENTS: Record<string, React.ComponentType> = {
   "/tic-tac-toe": TicTacToe,
   "/accordian": Accordian,
   "tabs-form": TabForm,
+  otp: Otp,
 };

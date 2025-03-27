@@ -31,4 +31,9 @@ export const HOME_ITEMS: HomeItem[] = [
     title: "Tabs Form",
     path: "/tabs-form",
   },
+  {
+    id: 6,
+    title: "Otp",
+    path: "/otp",
+  },
 ];
