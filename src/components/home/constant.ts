@@ -36,4 +36,9 @@ export const HOME_ITEMS: HomeItem[] = [
     title: "Otp",
     path: "/otp",
   },
+  {
+    id: 7,
+    title: "Progress Bar",
+    path: "/progress-bar",
+  },
 ];
